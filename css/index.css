@@ -117,12 +117,12 @@ ul
 
 /* header decoration */
 
-h2     
+h3     
     {
-        text-align: center;
-        color: black;
+        text-align: left;
+        color: white;
         margin-bottom: 10px;
-        font-size: 16px;
+        font-size: 12px;
         letter-spacing: 2px;
     }
 
